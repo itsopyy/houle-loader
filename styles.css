@@ -98,6 +98,14 @@ nav ul li a:hover {
     background-color: #ff66ff;
 }
 
+/* Game Logo */
+.game-logo {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+
 /* Footer */
 footer {
     background-color: #333;
